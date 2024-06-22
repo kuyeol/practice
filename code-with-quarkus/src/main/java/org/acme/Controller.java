@@ -1,4 +1,7 @@
 
+package org.acme;
+
+
 public class Controller{
 
 @Inject
