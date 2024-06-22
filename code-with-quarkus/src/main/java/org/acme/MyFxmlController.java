@@ -1,5 +1,7 @@
 package org.acme;
 
+import javafx.fxml.*;
+import jakarta.inject.Inject;
 
 public class MyFxmlController {
 
