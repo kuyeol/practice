@@ -1,6 +1,6 @@
 
 package org.acme;
-
+import javafx.fxml.FXMLLoader;
 import jakarta.inject.Inject;
 public class Controller{
 
