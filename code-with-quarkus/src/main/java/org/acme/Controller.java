@@ -1,7 +1,7 @@
 
 package org.acme;
 
-
+import jakarta.inject.Inject;
 public class Controller{
 
 @Inject
